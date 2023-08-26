@@ -1,0 +1,22 @@
+{
+  "name": "react-training",
+  "version": "1.0.0",
+  "description": "This is namaste react training",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mannesainarendra/namaste-react.git"
+  },
+  "author": "Manne Sai Narendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mannesainarendra/namaste-react/issues"
+  },
+  "homepage": "https://github.com/mannesainarendra/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
